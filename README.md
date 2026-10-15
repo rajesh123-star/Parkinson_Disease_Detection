@@ -13,6 +13,7 @@ The project includes data preprocessing, feature scaling, model training, and pe
 - Compare model performance using evaluation metrics.
 - Visualize model performance using confusion matrices.
 - Explore the potential of voice analysis for early detection research.
+
 🛠️ Tools & Technologies
 - Python
 - Jupyter Notebook
@@ -22,6 +23,7 @@ The project includes data preprocessing, feature scaling, model training, and pe
 - XGBoost
 - Matplotlib
 - Seaborn
+
 🤖 Machine Learning Models
 The following algorithms are explored in this project:
 - Logistic Regression
@@ -32,6 +34,7 @@ The following algorithms are explored in this project:
 - Gaussian Naive Bayes
 - XGBoost
 SMOTE can be used to address class imbalance in the training data.
+
 📌 Evaluation Metrics
 The models can be evaluated using:
 - Accuracy
@@ -48,6 +51,7 @@ The models can be evaluated using:
 - Hyperparameter Tuning using GridSearchCV
 - Model Evaluation and Comparison
 - Confusion Matrix Visualization
+
 💡 Project Outcomes
 
 This project investigates how machine learning algorithms can classify voice-related measurements and distinguish patterns associated with Parkinson's disease.
@@ -58,6 +62,7 @@ The results can be used to compare classification models and explore their poten
 Parkinson_Disease_Detection(.ipynb) – Contains the Python code for data preprocessing, model training, and evaluation.
 Parkinson_data – Contains the voice-related measurements used in the analysis.
 LICENSE – Specifies the terms under which the project can be used and shared.
+
 👨‍💻 Author
 
 Rajesh Nagella
