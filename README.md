@@ -33,6 +33,7 @@ The following algorithms are explored in this project:
 - Support Vector Machine (SVM)
 - Gaussian Naive Bayes
 - XGBoost
+
 SMOTE can be used to address class imbalance in the training data.
 
 📌 Evaluation Metrics
