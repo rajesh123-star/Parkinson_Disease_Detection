@@ -60,8 +60,11 @@ This project investigates how machine learning algorithms can classify voice-rel
 The results can be used to compare classification models and explore their potential for further research.
 
 📁 Project Files
+
 Parkinson_Disease_Detection(.ipynb) – Contains the Python code for data preprocessing, model training, and evaluation.
+
 Parkinson_data – Contains the voice-related measurements used in the analysis.
+
 LICENSE – Specifies the terms under which the project can be used and shared.
 
 👨‍💻 Author
