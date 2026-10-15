@@ -1,5 +1,6 @@
 # Parkinson_Disease_Detection
 Machine Learning-Based Speech Analysis for Early Detection of Parkinson's Disease
+
 📊 Project Overview
 
 This project explores the use of machine learning to identify patterns associated with Parkinson's disease using voice-related features. It uses a dataset containing vocal measurements to train and evaluate classification models.
